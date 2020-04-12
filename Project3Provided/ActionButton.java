@@ -25,7 +25,7 @@ import java.awt.Graphics2D;  // helps with rendering size of button
  *  Although you are welcome to modify this code, modifying this
  *     code is HIGHLY INADVISABLE. 
  * 
- * @author Stephen Blythe
+ * @author Biraj Singh GC
  * @version 2/2019
  */
 public abstract class ActionButton extends Actor

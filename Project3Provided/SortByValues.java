@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class SortByValues here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ @author Biraj Singh GC
+ * @version 2/2019
  */
 public class SortByValues extends ActionButton
 {

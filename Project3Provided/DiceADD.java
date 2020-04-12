@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class DiceADD here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Biraj Singh GC) 
+ * @version (02/2019)
  */
 public class DiceADD extends ActionButton
 {
